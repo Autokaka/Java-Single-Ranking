@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 elements to &apos;GUIs/src/main&apos;&#x0D;&#x0A;- Original project: &apos;ID&apos;&#x0D;&#x0A;- Destination element: &apos;GUIs/src/main&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     main.GBC.java&#x0D;&#x0A;     main.ID.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="=GUIs/src&lt;main" element1="/src&lt;main{GBC.java" element2="/src&lt;main{ID.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1541730430420" units="2" version="1.0"/>
+</session>
